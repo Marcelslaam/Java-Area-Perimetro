@@ -1,18 +1,31 @@
-## Getting Started
+# Area- Perimetro
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Comence a crear una calculadora cargada para medir con un rectangulo, un trapecio isosceles y un triangulo equilatero sus respectivos perimetros y areas correspondientes.
 
-## Folder Structure
+## Accion
 
-The workspace contains two folders by default, where:
+Al inicar la calculadora, esta preguntara al usuario que opcion desea ejecutar mediante un IF. El mismo tendra la opcion de funcionSwicht y segun su decision ejecutara la opcion AREA/PERIMETRO.
+De esta funcion dara opciones al usuario para determinar la figura geometrica a utilizar, la misma esta cargada por 3 opciones(Rectangulo- triangulo equilatero- trapecio Isosceles).
+Segun la figura geometrica, este pedira algunos datos para calcular y obtener el resultado final.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Contenido
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Para obtener los resultados y las fuciones correctas utilizamos:
+* Funcion
+* Swicht
+* If
+* Scanner
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Lenguaje
+
+* Java
+* Git
+
+## Novedades a completar
+
+Novedades de la proxima versión:
+
+* Inclucion de WHILE para iniciar y cerrar la calculadora.
+* Inclusion de mas figuras geometricas
